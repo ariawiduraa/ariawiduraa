@@ -6,7 +6,7 @@ I'm just a student who like study and have interest with AI, Machine Learning, D
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariawidura_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ariawidura) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Chatgpt](https://camo.githubusercontent.com/382a5007204c91cbe4c4bd1e232e7f2c4e8661d5377504ea0f0f28a92ca94555/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436861744750542d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6169266c6f676f436f6c6f723d7768697465)
+![Chatgpt](https://camo.githubusercontent.com/382a5007204c91cbe4c4bd1e232e7f2c4e8661d5377504ea0f0f28a92ca94555/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436861744750542d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6169266c6f676f436f6c6f723d7768697465) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ariawiduraa&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
